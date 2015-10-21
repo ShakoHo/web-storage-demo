@@ -3,7 +3,7 @@
   "name": "Record",
   "description": "Web storage demo ",
   "launch_path": "index.html",
-  "type": "certified",
+  "type": "privileged",
   "developer": {
     "name": "The Gaia Team",
     "url": "https://github.com/mozilla-b2g/gaia"
