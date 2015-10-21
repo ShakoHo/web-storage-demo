@@ -1,7 +1,7 @@
 {
   "version": "1.0",
   "name": "Record",
-  "description": "Web storage demo",
+  "description": "Web storage demo ",
   "launch_path": "index.html",
   "type": "certified",
   "developer": {
